@@ -1,0 +1,6 @@
+D:\taobao_projects\vs2015_pro\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+D:\taobao_projects\vs2015_pro\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+D:\taobao_projects\vs2015_pro\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+D:\taobao_projects\vs2015_pro\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csprojResolveAssemblyReference.cache
+D:\taobao_projects\vs2015_pro\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+D:\taobao_projects\vs2015_pro\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

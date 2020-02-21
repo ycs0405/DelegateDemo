@@ -1,0 +1,5 @@
+D:\taobao_projects\vs2015_pro\DelegateDemo\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\taobao_projects\vs2015_pro\DelegateDemo\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\taobao_projects\vs2015_pro\DelegateDemo\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\taobao_projects\vs2015_pro\DelegateDemo\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\taobao_projects\vs2015_pro\DelegateDemo\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
